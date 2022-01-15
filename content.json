@@ -23,8 +23,8 @@
 			"Action": "EditImage",
           	"Target": "Maps/springobjects",
           	"FromFile": "assets/lin_new_fish.png",
-		  	"FromArea": { "X": 0, "Y": 704, "Width": 128, "Height": 16 },
-        	"ToArea": { "X": 0, "Y": 704, "Width": 128, "Height": 16 },
+		  	"FromArea": { "X": 0, "Y": 704, "Width": 144, "Height": 16 },
+        	"ToArea": { "X": 0, "Y": 704, "Width": 144, "Height": 16 },
 	   	},
 		// Fish.json 1062 -1 1063 -1
 		// Object data reference: https://stardewvalleywiki.com/Modding:Object_data
