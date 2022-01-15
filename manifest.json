@@ -1,0 +1,13 @@
+{
+  "Name": "Lin Family Fish",
+  "Author": "Matt Weber, Una Lin, Rowan Lin, Kira Lin",
+  "Version": "1.0.0",
+  "Description": "Adds six new fish!",
+  "UniqueID": "LinFamilyFish",
+  "MinimumApiVersion": "3.8",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  },
+  "Dependencies": [],
+}
