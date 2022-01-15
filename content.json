@@ -8,6 +8,8 @@
       		"When": {
         		"DayEvent | contains=spirit's eve": "false"
       		},
+			// Fish data reference: https://stardewvalleywiki.com/Modding:Location_data
+			// tldr: ignore / ignore / ignore / ignore / spring fish data / summer fish data / fall fish data / ignore
 			"Entries": {
 				"Forest": "16 .9 22 .9/396 .6 402 .9/404 .9 410 .9/418 .9 414 .9 283 .5/153 -1 145 0 143 0 137 1 132 0 706 0 702 0/153 -1 145 0 144 -1 138 0 132 0 706 0 704 0 702 0 701 -1 1061 1/143 0 153 -1 140 -1 139 0 137 1 132 0 706 0 702 0 699 0 701 -1 269 1 1059 1/699 0 143 0 153 -1 144 -1 141 -1 140 -1 132 0 707 0 702 0 269 1 1059 1/378 .08 579 .1 588 .1 102 .15 390 .25 330 1",
 				"Beach": "372 .9 718 .1 719 .3 723 .3/372 .9 394 .5 718 .1 719 .3 723 .3/372 .9 718 .1 719 .3 723 .3/372 .4 392 .8 718 .05 719 .2 723 .2/129 -1 131 -1 147 -1 148 -1 152 -1 708 -1 1058 -1 1060 -1/128 -1 130 -1 146 -1 149 -1 150 -1 152 -1 155 -1 708 -1 267 -1 1058 -1 1060 -1/129 -1 131 -1 148 -1 150 -1 152 -1 154 -1 155 -1 705 -1 1060 -1/708 -1 130 -1 131 -1 146 -1 147 -1 150 -1 151 -1 152 -1 154 -1 705 -1 1056 -1 1057 -1 1072 -1/384 .08 589 .09 102 .15 390 .25 330 1",
@@ -25,6 +27,7 @@
         	"ToArea": { "X": 0, "Y": 704, "Width": 96, "Height": 16 },
 	   	},
 		// Fish.json
+		// Object data reference: https://stardewvalleywiki.com/Modding:Object_data
 		{
 			"Action": "EditData",
 			"LogName": "Fish Object Data",
@@ -36,20 +39,6 @@
 			 	"1059": "Galaxy Fish/250/50/Fish -4/Galaxy Fish/This fish contains a multitude of stars, planets, nebulas, and civilizations. Or at least that's what its scales seem to indicate.",
 			 	"1060": "Lanturn/100/5/Fish -4/Lanturn/How did a Pokemon get to Stardew Valley?",
 			 	"1061": "Kira Fish/250/25/Fish -4/Kira Fish/Named for an ancient princess of the Rainbow Baby Cheetah kingdom.",
-				"1062": "Mystic Fish/",
-				"1063": "Tiger Shark",
-				"1064": "Titanoboa",
-				"1065": "Giant Squid",
-				"1066": "Lava Cone Fish",
-				"1067": "Dragonfish",
-				"1068": "Lightybulb",
-				"1069": "Crystal Fish",
-				"1070": "Mandarin Fish",
-				"1071": "Phoenix Fish",
-				"1072": "Galaxy Orca/3500/160/Fish -4/Galaxy Orca/A very agile and quick apex predator.",
-				"1073": "Prismatic Beluga",
-				"1074": "Prismatic Tiger Shark",
-				"1075": "Jigglywig Bagel"
 			}
         },
 	  	{
@@ -63,21 +52,6 @@
 				"1059": "Galaxy Fish/60/sinker/2/12/1800 2400/fall winter/both/682 .2/3/.15/.15/0",
 				"1060": "Lanturn/60/smooth/6/72/2000 2400/spring summer fall/both/682 .2/2/.15/.15/0",
 				"1061": "Kira Fish/75/sinker/1/100/0600 1600/summer/sunny/682 .2/3/.15/.15/0",
-				"1062": "Mystic Fish/",
-				"1063": "Tiger Shark",
-				"1064": "Titanoboa",
-				"1065": "Giant Squid",
-				"1066": "Lava Cone Fish",
-				"1067": "Dragonfish",
-				"1068": "Lightybulb",
-				"1069": "Crystal Fish",
-				"1070": "Mandarin Fish",
-				"1071": "Phoenix Fish",
-				"1072": "Galaxy Orca/99/dart/48/120/1200 2400/winter/999 .9/3/.15/.15/0",
-				"1073": "Prismatic Beluga",
-				"1074": "Prismatic Tiger Shark",
-				"1075": "Jigglywig Bagel"
-
 		  	},
 		},
 		{
