@@ -1,0 +1,12 @@
+# PyCharm
+.idea
+
+# Mac
+.DS_Store
+assets/.DS_Store
+
+# scratch JSON
+scratch.txt
+
+# editable image
+assets/lin_new_fish.xcf
