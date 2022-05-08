@@ -1,7 +1,7 @@
 {
   "Name": "Lin Family Fish",
   "Author": "Matt Weber, Una Lin, Rowan Lin, Kira Lin",
-  "Version": "1.0.3s",
+  "Version": "1.0.4",
   "Description": "Adds thirteen new fish!",
   "UniqueID": "LinFamilyFish",
   "MinimumApiVersion": "3.8",
